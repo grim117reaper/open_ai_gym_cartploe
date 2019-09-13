@@ -3,7 +3,8 @@ openai's gym's cartpole game training
 
 # Requirements
 
-- tflearn
--tensorflow
--scikit learn
--gym
+- tflearn <br>
+- tensorflow <br>
+- scikit learn <br>
+- gym <br>
+- numpy <br>
